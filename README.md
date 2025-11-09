@@ -1,7 +1,7 @@
 # Yachta V3
 
-![Relaise](https://img.shields.io/github/release-date/gerryvel/NMEA2000_TPW?)
-![lastcommit](https://img.shields.io/github/last-commit/gerryvel/NMEA2000_TPW)
+![Relaise](https://img.shields.io/github/release-date/gerryvel/Yachta_V3?)
+![lastcommit](https://img.shields.io/github/last-commit/gerryvel/Yachta_V3)
 [![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
 
 
