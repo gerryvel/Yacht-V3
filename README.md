@@ -22,7 +22,8 @@ The PCB is the same as Yachta V2.
 
 ## Hardware
 
-![image](https://github.com/user-attachments/assets/d963e551-218a-4069-a39e-241a050174c5)
+![image](https://github.com/user-attachments/assets/be424722-945f-4f4d-a7e5-4337cd2123a4)
+
 
 ## Partlist:
 
