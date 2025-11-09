@@ -29,7 +29,7 @@ The PCB is the same as Yachta V2.
 
 ## Partlist:
 
-# 1 Druckteile
+### 1 Druckteile
  - 1.1  Windfahne
  - 1.2  Gewindering Lager Windfahne
  - 1.3  Gehäuse-Oberteil
@@ -39,10 +39,10 @@ The PCB is the same as Yachta V2.
  - 1.7  Abstandsstück (zwischen Löffellager)
  - 1.8  Magnethalter
  - 1.9  Halterbasis
-# 2 Lager
+### 2 Lager
  - 2.1  Lager 2x 625 (5x16x5 mm)
  - 2.2  Lager 1x 624 (4x13x5 mm)
-# 3 Normteile
+### 3 Normteile
  - 3.1  Inbus-Schraube VA 1x M3x10 (Befestigung Aluminiumrohr)
  - 3.2  Inbus-Schrauben VA 1x M5x20 (Befestigung Lager Windfahne)
  - 3.3  Inbus-Schrauben VA 1x M5x40 (Befestigung Löffellager)
