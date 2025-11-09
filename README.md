@@ -49,7 +49,7 @@ The PCB is the same as Yachta V2.
  - 3.4  Inbus-Schrauben VA 1x M6x50 (Gegengewicht Windfahne)
  - 3.5  1x Mutter VA M5 (Löffellager)
  - 3.6  2x Unterlegscheibe VA  M5
-### Spezial parts
+### Special parts
  - 4  Aluminiumrohr 10x1mm, 200mm
  - 5  Aluminiumrohr 8x1, 30mm / Aluminiumrohr 10x1, ca. 40mm (für Windspitze)
  - 6  LiYY 2x0,5 mm² oder YSLY 2x0,75 mm² ca. 300mm
