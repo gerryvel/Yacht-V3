@@ -15,6 +15,7 @@ Is the Windsensor "Yachta" [@norbert-walter](https://github.com/norbert-walter/W
 You can use the following threads (in German):
 - https://www.segeln-forum.de/thread/67401-windsensor-diy/
 - https://www.segeln-forum.de/thread/83726-windsensor-yachta-probleml%C3%B6sungen/
+
 This project is part of [OpenBoatProject](https://open-boat-projects.org/)
 
 ## Sensor Modul
