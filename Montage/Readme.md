@@ -23,9 +23,9 @@ Jetzt kann man die Windlöffel mit dem Löffelhalter komplettieren. In den Magne
 Aluminiumstange einbauen, Loch für M3 Schraube anzeichnen. Ausbauen, bohren, Gewinde schneiden. Wieder einbauen und mit der Schraube M3x10 sichern. Kabel aus Pos. 6 einfädeln, Mantel absetzen und Adern abisolieren.
 Leiterplatte einlegen und prüfen, ob der Abstand zu den Magneten passt, eventuell anpassen. Mit Schraubensicherungslack sichern.
 
-# Oberteil mit Windfahne
+## Oberteil mit Windfahne
 
-Im Gehäuse-Oberteil das Lager 625 einlegen und mit dem Gewindering 1.2 festschrauben. Mit der Schraube M5x20 die Windfahne befestigen. Das Rohr 8x1 benötigt man nur zum zentrieren und wird in das  Überschubrohres 10x1 eingeschoben. Jetzt die Gegengewichtsschraube mit dem ineinander gesteckten Aluminiumrohren 8x1x30 und 10x1x40 (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf kleben.
+Im Gehäuse-Oberteil das Lager 625 einlegen und mit dem Gewindering 1.2 festschrauben. Mit der Schraube M5x20 die Windfahne befestigen. Das Rohr 8x1 benötigt man nur zum zentrieren und wird in das Überschubrohr 10x1 eingeschoben. Jetzt die Gegengewichtsschraube mit dem ineinander gesteckten Aluminiumrohren 8x1x30 und 10x1x40 (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf kleben.
 
 # Komplettieren
 
