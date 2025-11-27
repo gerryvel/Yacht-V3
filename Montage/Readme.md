@@ -19,17 +19,17 @@ Die Gegengewichtsschraube am Kopf verrunden.
 
 # Montage
 ## Unterteil mit Windrad
-Jetzt kann man die Windlöffel mit dem Löffelhalter komplettieren. In den Magnethalter die Magnete einkleben. Die Lager 1x 624 und 1x 625 in das Gehäuse-Unterteil einlegen, dazwischen das Abstandstück positionieren. Die Schraube 3.3 in den Löffelhalter einführen und durch die Lager und das Abstandsstück durchfädeln, den vormontieren Magnethalter aufsetzen und mit der Mutter M5 verschrauben. Eventuell mit der Unterlegscheibe richtige Abstände einstellen, damit das Windrad frei läuft.
-Aluminiumstange einbauen, Loch für M3 Schraube anzeichnen. Ausbauen, bohren, Gewinde schneiden. Wieder einbauen und mit der Schraube M3x10 sichern. Kabel aus Pos. 6 einfädeln, Mantel absetzen und Adern abisolieren.
+Jetzt kann man die Windlöffel [1.5] mit dem Löffelhalter [1.6] komplettieren. In den Magnethalter [1.8] die Magnete einkleben. Die Lager 1x 624 [2.2] und 1x 625 [2.1] in das Gehäuse-Unterteil einlegen, dazwischen das Abstandstück [1.7] positionieren. Die Schraube [3.3] in den Löffelhalter einführen und durch die Lager und das Abstandsstück durchfädeln, den vormontieren Magnethalter aufsetzen und mit der Mutter M5 verschrauben. Eventuell mit der Unterlegscheibe richtige Abstände einstellen, damit das Windrad frei läuft.
+Aluminiumstange [4] einbauen, Loch für M3 Schraube anzeichnen. Ausbauen, bohren, Gewinde schneiden. Wieder einbauen und mit der Schraube M3x10 sichern. Kabel [6] einfädeln, Mantel absetzen und Adern abisolieren.
 Leiterplatte einlegen und prüfen, ob der Abstand zu den Magneten passt, eventuell anpassen. Mit Schraubensicherungslack sichern.
 
 ## Oberteil mit Windfahne
 
-Im Gehäuse-Oberteil das Lager 625 einlegen und mit dem Gewindering 1.2 festschrauben. Mit der Schraube M5x20 die Windfahne befestigen. Das Rohr 8x1 benötigt man nur zum zentrieren und wird in das Überschubrohr 10x1 eingeschoben. Jetzt die Gegengewichtsschraube mit dem ineinander gesteckten Aluminiumrohren 8x1x30 und 10x1x40 (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf kleben.
+Im Gehäuse-Oberteil das Lager 625 einlegen und mit dem Gewindering [1.2] festschrauben. Mit der Schraube M5x20 [3.3] die Windfahne befestigen. Jetzt die Gegengewichtsschraube mit dem VA-Rohr 10x2x30 [5] (genaue Länge durch ausbalancieren bestimmen) komplettieren, eindrehen und ausbalancieren. Eventuell mit einer Unterlegscheibe M5 den Abstand der Fahne zum Gehäuse-Oberteil einstellen. Schraube mit Lack sichern. Den Magneten 5x5x5 an den Schraubenkopf festkleben.
 
 # Komplettieren
 
-Kabeladern an der Leiterplatte durchfädeln, Freilauf des Magnethalters beachten. Adern anlöten. O-Ring einlegen und beide Schalen zusammenschrauben. Windfahne und Windrad bewegen und prüfen, ob die Magneten frei laufen und nicht an der Leiterplatte anschlagen. Halterbasis an der anderen Seite des Aluminiumrohrs anbauen und Kabel durchfädeln.
+Kabeladern an der Leiterplatte durchfädeln, Freilauf des Magnethalters beachten. Adern anlöten. O-Ring [7] einlegen und beide Schalen zusammenschrauben. Windfahne und Windrad bewegen und prüfen, ob die Magneten frei laufen und nicht an der Leiterplatte anschlagen. Halterbasis an der anderen Seite des Aluminiumrohrs anbauen und Kabel durchfädeln.
 
 # Inbetriebnahme 
 
